@@ -1,0 +1,9 @@
+header{
+    display: flex;
+    align-items: center;
+    padding:5px;
+    background-color: rgb(255, 187, 0);
+    color:white;
+    font-family: "McLaren", cursive;
+}
+
